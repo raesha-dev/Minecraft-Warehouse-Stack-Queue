@@ -23,7 +23,7 @@ This project models these requirements using foundational data structures, showi
 
 ---
 
->> Design and Data Structures
+## Design and Data Structures
 
 ### Stack (LIFO)
 
