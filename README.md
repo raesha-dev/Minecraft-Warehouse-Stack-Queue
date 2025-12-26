@@ -2,7 +2,7 @@
 
 **Implementation of Stack and Queue Data Structures**
 
->> Overview
+## Overview
 
 This project implements a **warehouse inventory management system** inspired by Minecraft-style storage mechanics. 
 It demonstrates the **practical application of core data structures**, specifically **Stack (LIFO)** and **Queue (FIFO)**, in a realistic systems context.
@@ -11,7 +11,7 @@ The emphasis is on **correctness, clarity, and real-world modeling**, rather tha
 
 ---
 
->> Problem Statement
+## Problem Statement
 
 Efficient warehouse systems require:
 
@@ -39,7 +39,7 @@ Use case: Storage slots where recent items are accessed first.
 
 ---
 
->> Queue (FIFO)
+### Queue (FIFO)
 
 Used for **order and dispatch management** to preserve arrival order.
 
@@ -53,7 +53,7 @@ Use case: Ensuring fair and sequential order processing.
 
 ---
 
->> Features
+## Features
 
 * Modular implementation of stack and queue
 * Menu-driven console interface
@@ -63,7 +63,7 @@ Use case: Ensuring fair and sequential order processing.
 
 ---
 
->> Example Workflow
+## Example Workflow
 
 1. Items arrive and are stored using stack operations
 2. Orders are placed and added to the queue
